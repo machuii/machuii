@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Welcome to my Github!</h1>
-<h3 align="center">My name is Mathew and I'm a 2nd year CSE undergrad at NITC</h3>
+<h3 align="center">My name is Mathew and I'm a BTech graduate from NITC</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
